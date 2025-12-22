@@ -1,7 +1,7 @@
 ### Hi, I'm Diogo Pimenta
 
-- 🔭 Today I'm studying Ingenharia Informatica
-- 🌱 I’m currently learning Python
+- 🔭 Today I'm studying Engenharia Informatica
+- 🌱 I’m currently learning C#
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Di0g0Pimenta&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/Di0g0Pimenta)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/Di0g0Pimenta)
